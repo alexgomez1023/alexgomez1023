@@ -10,7 +10,7 @@ I'm currently a student at North Carolina State University studying Computer Sci
 Python, C#, React, Node.js, LLM APIs, MCP, Pytorch, Linux, AWS
 
 ## My Website
-To learn more, go to my website: [https://alexmgomez.com](alexmgomez.com)
+To learn more, go to my website: [alexmgomez.com](https://alexmgomez.com)
 
 <!--
 **alexgomez1023/alexgomez1023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
